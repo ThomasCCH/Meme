@@ -1,2 +1,2 @@
 # Meme
-Created with CodeSandbox
+Practise for using react to generate a web
