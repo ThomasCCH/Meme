@@ -1,8 +1,8 @@
 {
   "name": "meme-generator",
   "version": "1.0.0",
-  "description": "",
-  "keywords": [],
+  "description": "random-meme-generator",
+  "keywords": [meme],
   "main": "src/index.js",
   "dependencies": {
     "react": "18.0.0",
